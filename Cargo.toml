@@ -1,0 +1,6 @@
+[package]
+name = "readelf-tool-re"
+version = "0.1.0"
+authors = ["WittsEnd2 <contact@ragnarsecurity.com>"]
+
+[dependencies]
